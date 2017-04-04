@@ -1,2 +1,2 @@
 # Librerouter
-LibreRouter is a revolutionary plug and play system, based on Open Source technology, that will allow people to make internet traffic untraceable and secure.
+<iframe src="//slides.com/andycancino/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
